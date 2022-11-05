@@ -1,1 +1,5 @@
-input("What's your name: ")
+myName = input("What's you name?: ")
+myAge = input("How old are you? :")
+print("Gee, that's REALLY OLD")
+replit = input("Do you like Replit?")
+print("OF COURSE YOU DO!")
