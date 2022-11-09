@@ -1,3 +1,7 @@
-myName = input("What's your name? ")
-myLunch = input("What are you having for lunch? ")
-print(myName, "is going to be chowing down on", myLunch, "very soon!")
+food=input("Nombre una comida: ")
+plant=input("Nombre una planta: ")
+cooking=input("Comida especial con esa planta: ")
+burnedf=input("Palabra que describa comida quemada: ")
+household=input("Nombre un articulo para el hogar: ")
+
+print(cooking,food,"with",burnedf,plant,"on a bed of", household)
